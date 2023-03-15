@@ -1,9 +1,7 @@
 # ocr_space_pyexample
 All ocr.space api using python
 
-import base64
-import json
-import requests
+All code in main.py
 
 
 def ocr_space_url(url, overlay=False, api_key='helloworld', language='eng', ocrengine=1):
